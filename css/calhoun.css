@@ -1,0 +1,23 @@
+a {
+	text-transform: uppercase;
+	font-size: 16pt;
+	font-weight: bold;
+	margin-right: 20px;
+}
+
+a.sub-links:hover{
+	color: #337ab7;
+	text-decoration: none;
+}
+
+a.sub-links {
+	color: #ffffff;
+}
+
+#sublinks {
+	display: block;
+}
+
+nav {
+	background-color: #024c61;
+}
