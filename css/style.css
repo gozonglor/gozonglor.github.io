@@ -71,9 +71,9 @@ img {
   display: block;
 }
 blockquote{
-  font-size: 7pt;
+  font-size: 6pt;
   font-family: Trebuchet MS;
-  font-color: #FFFFFF;
+  color: #FFFFFF;
   display: block;
   padding-left: 5px;
 }
