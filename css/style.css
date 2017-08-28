@@ -70,6 +70,13 @@ table, th, td, tr {
 img {
   display: block;
 }
+blockquote{
+  font-size: 9pt;
+  font-family: Trebuchet MS;
+  font-color: #FFFFFF;
+  display: block;
+  padding-left: 5px;
+}
 /*  SECTIONS  */
 .section {
 	clear: both;
@@ -126,7 +133,8 @@ img {
   background-color: #000000;
   color: white;
   font-size: 16px;
-  padding: 16px 32px;
+  /*padding: 16px 32px;*/
+  padding: 16px 16px;
 }
 
 .item:hover .middle {
